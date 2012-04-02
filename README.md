@@ -16,7 +16,7 @@
 
 ```shell
   mkdir SciSmalltalk
-  cd Kendrick
+  cd SciSmalltalk
   git clone https://github.com/SergeStinckwich/SciSmalltalk.git
 ```
 
