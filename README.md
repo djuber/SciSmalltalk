@@ -2,7 +2,7 @@
 
 * Download the last dev Pharo 1.4: https://ci.lille.inria.fr/pharo/job/Pharo%201.4/lastSuccessfulBuild/artifact/Pharo-1.4.zip
 
-* Bootstrap FileTree into a fresh image:
+* Bootstrap FileTree:
 
 ```Smalltalk
   Gofer new
