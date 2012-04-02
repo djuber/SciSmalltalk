@@ -27,6 +27,6 @@ repo := 'Add you repo path here'.
 Gofer new
     repository: (MCFileTreeRepository new directory: 
                     (FileDirectory on: repo));
-    package: 'Kendrick';
+    package: 'Math';
     load.
 ```
