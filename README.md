@@ -1,6 +1,6 @@
 ## How to install SciSmalltalk
 
-http://ss3.gemstone.com/ss/SciSmalltalk.html
+SciSmalltalk code is also available on this Monticello repository: http://ss3.gemstone.com/ss/SciSmalltalk.html
 
 * Download the last dev Pharo 1.4: https://ci.lille.inria.fr/pharo/job/Pharo%201.4/lastSuccessfulBuild/artifact/Pharo-1.4.zip
 
