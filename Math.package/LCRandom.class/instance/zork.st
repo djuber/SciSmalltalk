@@ -1,0 +1,3 @@
+accessing
+zork
+^42
