@@ -2,5 +2,5 @@ accessing
 peek
 	"Answer the same as next without changing state"
 	
-	^ self deepCopy next.
+	^ self copy next.
 	

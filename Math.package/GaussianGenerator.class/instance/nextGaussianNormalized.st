@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 nextGaussianNormalized
 	| x1 x2 w y1 y2 |
 	hasNextGaussian

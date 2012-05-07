@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 mean: aMeanValue
 	mean := aMeanValue
