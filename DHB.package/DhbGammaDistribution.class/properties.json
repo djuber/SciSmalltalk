@@ -1,0 +1,20 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alpha",
+		"beta",
+		"norm",
+		"randomCoefficients",
+		"incompleteGammaFunction" ],
+	"name" : "DhbGammaDistribution",
+	"pools" : [
+		 ],
+	"super" : "DhbProbabilityDensity",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"minimum",
+		"binWidth",
+		"overflow",
+		"underflow",
+		"moments",
+		"contents",
+		"freeExtent",
+		"cacheSize",
+		"desiredNumberOfBins" ],
+	"name" : "DhbHistogram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

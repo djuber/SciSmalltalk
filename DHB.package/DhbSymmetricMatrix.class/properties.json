@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DhbSymmetricMatrix",
+	"pools" : [
+		 ],
+	"super" : "DhbMatrix",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

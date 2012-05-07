@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numerator",
+		"denominator" ],
+	"name" : "DhbContinuedFraction",
+	"pools" : [
+		 ],
+	"super" : "DhbInfiniteSeries",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alpha",
+		"sum" ],
+	"name" : "DhbIncompleteGammaSeriesTermServer",
+	"pools" : [
+		 ],
+	"super" : "DhbSeriesTermServer",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

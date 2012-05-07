@@ -1,0 +1,20 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"precision",
+		"desiredPrecision",
+		"maximumIterations",
+		"result",
+		"iterations" ],
+	"name" : "DhbIterativeProcess",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

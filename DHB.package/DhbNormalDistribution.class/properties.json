@@ -1,0 +1,18 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"NextRandom" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mu",
+		"sigma",
+		"nextRandom" ],
+	"name" : "DhbNormalDistribution",
+	"pools" : [
+		 ],
+	"super" : "DhbProbabilityDensity",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

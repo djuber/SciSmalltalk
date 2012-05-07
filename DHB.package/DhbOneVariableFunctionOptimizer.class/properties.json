@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"GoldenSection" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DhbOneVariableFunctionOptimizer",
+	"pools" : [
+		 ],
+	"super" : "DhbFunctionOptimizer",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

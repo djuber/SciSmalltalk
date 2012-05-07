@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data",
+		"position" ],
+	"name" : "DhbMemoryBasedDataServer",
+	"pools" : [
+		 ],
+	"super" : "DhbAbstractDataServer",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

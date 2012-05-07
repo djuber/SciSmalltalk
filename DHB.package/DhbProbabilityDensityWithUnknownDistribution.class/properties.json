@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DhbProbabilityDensityWithUnknownDistribution",
+	"pools" : [
+		 ],
+	"super" : "DhbProbabilityDensity",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

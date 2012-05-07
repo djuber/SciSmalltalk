@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"termServer" ],
+	"name" : "DhbInfiniteSeries",
+	"pools" : [
+		 ],
+	"super" : "DhbIterativeProcess",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

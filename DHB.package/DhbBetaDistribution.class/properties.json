@@ -1,0 +1,21 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alpha1",
+		"alpha2",
+		"gamma1",
+		"gamma2",
+		"logNorm",
+		"incompleteBetaFunction" ],
+	"name" : "DhbBetaDistribution",
+	"pools" : [
+		 ],
+	"super" : "DhbProbabilityDensity",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

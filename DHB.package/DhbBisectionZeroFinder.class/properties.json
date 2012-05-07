@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"positiveX",
+		"negativeX" ],
+	"name" : "DhbBisectionZeroFinder",
+	"pools" : [
+		 ],
+	"super" : "DhbFunctionalIterator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"optimizingPointClass",
+		"bestPoints" ],
+	"name" : "DhbFunctionOptimizer",
+	"pools" : [
+		 ],
+	"super" : "DhbFunctionalIterator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
