@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPeekAnswersSameAsNext
 	| g |
 	g := MersenneTwisterRandom new.
