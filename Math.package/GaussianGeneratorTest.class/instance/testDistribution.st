@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testDistribution
 	| mean standardDeviation g |
 	mean := 147.

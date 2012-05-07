@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testConstantGeneratorGenerateAlwaysTheSameValue
 	| g numberOfTrials |
 	g := ConstantGenerator new.
