@@ -15,18 +15,18 @@ nextInteger
 				states
 					at: kk
 					put:
-						(((states at: kk + PeriodParameter) bitXor: (y bitShift: 1 negated)) bitXor: (tempArray at: (y bitAnd: 16r1 + 1))) ].
+						(((states at: kk + PeriodParameter) bitXor: (y bitShift: 1 negated)) bitXor: (tempArray at: (y bitAnd: 16r1) + 1)) ].
 			DefaultLengthVector - PeriodParameter + 1 to: DefaultLengthVector - 2 do: [ :kk | 
 				y := ((states at: kk) bitAnd: Mt19937UpperMask) bitOr: ((states at: kk + 1) bitAnd: Mt19937LowerMask).
 				states
 					at: kk
 					put:
 						(((states at: kk + PeriodParameter - DefaultLengthVector + 1) bitXor: (y bitShift: 1 negated))
-							bitXor: (tempArray at: (y bitAnd: 16r1 + 1))) ].
+							bitXor: (tempArray at: (y bitAnd: 16r1) + 1)) ].
 			y := ((states at: DefaultLengthVector) bitAnd: Mt19937UpperMask) bitOr: ((states at: 1) bitAnd: Mt19937LowerMask).
 			states
 				at: DefaultLengthVector
-				put: ((states at: PeriodParameter) bitXor: ((y bitShift: 1) bitXor: (tempArray at: (y bitAnd: 16r1 + 1)))).
+				put: ((states at: PeriodParameter) bitXor: ((y bitShift: 1) bitXor: (tempArray at: (y bitAnd: 16r1) + 1))).
 			mti := 0 ].
 	y := states at: mti + 1.
 	mti := mti + 1.

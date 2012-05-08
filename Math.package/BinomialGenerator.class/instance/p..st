@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 p: aProbability 
 	p := aProbability

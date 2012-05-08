@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 standardDeviation: aStandardDeviation
 	standardDeviation := aStandardDeviation

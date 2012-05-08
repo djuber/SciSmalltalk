@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 generator: aRandomNumberGenerator 
 	rng := aRandomNumberGenerator

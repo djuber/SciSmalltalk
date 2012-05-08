@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPeekAlwaysReplyTheSameValue
 	| g |
 	g := MersenneTwisterRandom new.
