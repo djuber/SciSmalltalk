@@ -4,6 +4,5 @@ checkDistributionOf: aGenerator withExpectedMeans: e andExpectedStandardDeviatio
 	| data m |
 	data := Set new.
 	10000 timesRepeat: [ data add: aGenerator next ].
-	m := data sum.
-	m := m / data size.
+	m := data sum / data size.
 	self assert: e - m <= 0.2
