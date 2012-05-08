@@ -32,3 +32,5 @@ Gofer new
     package: 'Math';
     load.
 ```
+
+* A google group exists for this project at http://groups.google.com/group/scismalltalk
