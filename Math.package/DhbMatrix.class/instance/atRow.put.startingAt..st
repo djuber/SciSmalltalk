@@ -1,4 +1,4 @@
-*math
+*Math
 atRow: rowIndex put: aCollection startingAt: startColumnNumber 
 	" Fill the receiver with aCollection at rowIndex beggining at startColumnNumber. "
 		

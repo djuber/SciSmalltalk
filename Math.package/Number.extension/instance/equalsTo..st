@@ -1,4 +1,4 @@
-*math
+*Math
 equalsTo: aNumber
 		"compare to Float>>closeTo:
 		

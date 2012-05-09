@@ -1,4 +1,4 @@
-*math
+*Math
 errorFunction
 		"Answer the error function for the receiver.
 		 (c) Copyrights Didier BESSET, 1999, all rights reserved.

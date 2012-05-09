@@ -1,4 +1,4 @@
-*math
+*Math
 atColumn: aColumnIndex put: aCollection
 
 	aCollection withIndexDo: [: value : rowIndex |

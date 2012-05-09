@@ -1,4 +1,4 @@
-*math
+*Math
 beta: aNumber
 		"Computes the beta function of the receiver and aNumber
 		 (c) Copyrights Didier BESSET, 1999, all rights reserved.

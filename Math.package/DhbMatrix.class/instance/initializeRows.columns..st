@@ -1,4 +1,4 @@
-*math
+*Math
 initializeRows: rowsInteger columns: columnsInteger
 	"Build empty components for a matrix."
 		

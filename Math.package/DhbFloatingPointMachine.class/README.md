@@ -9,11 +9,11 @@ numerical precision that can be expected for a general numerical computation. On
 
 	largestNumber:		The largest positive number that can be represented in the machine
 
-	machinePrecision:		The largest n such that (1 + r^-n) - 1 != 0
+	machinePrecision:		r^{-(n+1)}, with the largest n such that (1 + r^-n) - 1 != 0
 
-	negativeMachinePrecision:		The largest n such that (1 - r^-n) - 1 != 0
+	negativeMachinePrecision:		r^{-(n+1)}, with the largest n such that (1 - r^-n) - 1 != 0
 
-	radix:		The radix of the floating point representation
+	radix:		The radix of the floating point representation. This is often 2.
 
 	smallNumber:		A number that can be added to some value without noticeably changing the result of the computation
 

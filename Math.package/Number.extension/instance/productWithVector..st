@@ -1,4 +1,4 @@
-*math
+*Math
 productWithVector: aVector
 		"Answers a new vector product of the receiver with aVector.
 		 (c) Copyrights Didier BESSET, 1999, all rights reserved.

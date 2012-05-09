@@ -1,4 +1,4 @@
-*math
+*Math
 removeAtIndex: anIndex
 	"Remove the element of the collection at position anIndex.  Answer the object removed."
 

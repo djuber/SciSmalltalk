@@ -1,4 +1,4 @@
-*Math-Random-Tests
+*Math-Extensions-Tests
 testChoose
 "Abramowitz and Stegun Section 24.1.1 II B 'Checks'  p. 822"
 	| sum n r s |
