@@ -34,3 +34,10 @@ Gofer new
 ```
 
 * A google group exists for this project at http://groups.google.com/group/scismalltalk
+
+* Alternately, fork this repository, then clone your copy. 
+```shell
+  mkdir SciSmalltalk
+  cd SciSmalltalk
+  git clone https://github.com/YourUserName/SciSmalltalk.git
+```
