@@ -1,0 +1,17 @@
+{
+	"category" : "Math-DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lowerRows",
+		"transform" ],
+	"name" : "DhbJacobiTransformation",
+	"pools" : [
+		 ],
+	"super" : "DhbIterativeProcess",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
