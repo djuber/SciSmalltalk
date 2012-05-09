@@ -5,3 +5,5 @@ SystemOrganization addCategory: #'Math-Tests-DHB-Numerical'!
 SystemOrganization addCategory: #'Math-DHB-Numerical-Tests'!
 SystemOrganization addCategory: #'Math-Complex'!
 SystemOrganization addCategory: #'Math-ComplexTests'!
+SystemOrganization addCategory: #'Math-Quaternion'!
+SystemOrganization addCategory: #'Math-QuaternionTests'!
