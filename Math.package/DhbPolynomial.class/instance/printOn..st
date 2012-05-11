@@ -15,7 +15,7 @@ printOn: aStream
 					[firstNonZeroCoefficientPrinted
 						ifTrue: 
 							[aStream space.
-							each < 0 ifFalse: [aStream nextPut: $+].
+							((each respondsTo: #< ) and: [each < 0]) ifFalse: [aStream nextPut: $+].
 							aStream space]
 						ifFalse: [firstNonZeroCoefficientPrinted := true].
 					(each = 1 and: [n > 0])
@@ -27,4 +27,8 @@ printOn: aStream
 								ifTrue: 
 									[aStream nextPut: $^.
 									n printOn: aStream]]].
-			n := n + 1]
+			n := n + 1].
+		
+	"add a quick check, print a zero if the polynomial has all zero coefficients
+	Daniel Uber 11 May 2012"
+	firstNonZeroCoefficientPrinted ifFalse: [0 printOn: aStream].
