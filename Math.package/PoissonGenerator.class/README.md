@@ -1,0 +1,1 @@
+A PoissonGeneratorsimulates a Poisson Process with parameter rate.

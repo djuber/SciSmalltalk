@@ -1,4 +1,4 @@
-*Math
+*Math-DHB-Extensions
 logGamma
 		"Computes the log of the Gamma function (for positive numbers only)
 		 (c) Copyrights Didier BESSET, 1999, all rights reserved.

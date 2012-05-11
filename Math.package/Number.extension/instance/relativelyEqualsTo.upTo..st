@@ -1,4 +1,4 @@
-*Math
+*Math-DHB-Extensions
 relativelyEqualsTo: aNumber upTo: aSmallNumber
 		"compare to Float>>closeTo:
 		generally called from Number>>equalsTo:

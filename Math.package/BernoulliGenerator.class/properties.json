@@ -7,10 +7,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"rate",
-		"rng",
-		"nextMethod" ],
-	"name" : "PoissonGenerator",
+		"p",
+		"rng" ],
+	"name" : "BernoulliGenerator",
 	"pools" : [
 		 ],
 	"super" : "NumberGenerator",

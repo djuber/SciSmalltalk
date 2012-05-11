@@ -1,4 +1,4 @@
-*Math
+*Math-DHB-Extensions
 logBeta: aNumber
 		"Computes the logarithm of the beta function of the receiver and aNumber
 		 (c) Copyrights Didier BESSET, 1999, all rights reserved.

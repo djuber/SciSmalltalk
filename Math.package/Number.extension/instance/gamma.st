@@ -1,4 +1,4 @@
-*Math
+*Math-DHB-Extensions
 gamma
 		"Compute the Gamma function for the receiver.
 		 (c) Copyrights Didier BESSET, 1999, all rights reserved.

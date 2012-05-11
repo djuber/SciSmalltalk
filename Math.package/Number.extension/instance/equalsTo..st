@@ -1,4 +1,4 @@
-*Math
+*Math-DHB-Extensions
 equalsTo: aNumber
 		"compare to Float>>closeTo:
 		
