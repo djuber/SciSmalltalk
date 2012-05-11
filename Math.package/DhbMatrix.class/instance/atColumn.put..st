@@ -1,4 +1,4 @@
-*Math
+*Math-DHB-Extensions
 atColumn: aColumnIndex put: aCollection
 
 	aCollection withIndexDo: [: value : rowIndex |
