@@ -1,0 +1,19 @@
+{
+	"category" : "Math-DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"degreeOfFreedom",
+		"norm",
+		"chiSquareDistribution",
+		"incompleteBetaFunction" ],
+	"name" : "DhbStudentDistribution",
+	"pools" : [
+		 ],
+	"super" : "DhbProbabilityDensity",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

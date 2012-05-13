@@ -1,0 +1,17 @@
+{
+	"category" : "Math-DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alpha1",
+		"alpha2" ],
+	"name" : "DhbIncompleteBetaFractionTermServer",
+	"pools" : [
+		 ],
+	"super" : "DhbSeriesTermServer",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

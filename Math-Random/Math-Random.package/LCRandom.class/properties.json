@@ -1,0 +1,16 @@
+{
+	"category" : "Math-Random",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 3/23/2009 21:22",
+	"instvars" : [
+		 ],
+	"name" : "LCRandom",
+	"pools" : [
+		 ],
+	"super" : "RandomGenerator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

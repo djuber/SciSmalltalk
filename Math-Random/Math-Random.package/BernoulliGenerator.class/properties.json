@@ -1,0 +1,17 @@
+{
+	"category" : "Math-Random",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"p",
+		"rng" ],
+	"name" : "BernoulliGenerator",
+	"pools" : [
+		 ],
+	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

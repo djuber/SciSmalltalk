@@ -1,0 +1,19 @@
+{
+	"category" : "Math-DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to",
+		"sum",
+		"step" ],
+	"name" : "DhbTrapezeIntegrator",
+	"pools" : [
+		 ],
+	"super" : "DhbFunctionalIterator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
