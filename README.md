@@ -32,10 +32,13 @@ Gofer new
     package: 'Math';
     load.
 ```
+## How to contribute to SciSmalltalk
+
+We welcome submissions!
 
 * A google group exists for this project at http://groups.google.com/group/scismalltalk
 
-* Alternately, fork this repository, then clone your copy. When you have made changes, commit, and make a Pull Request.
+* Fork this repository, then clone your copy (instead of cloning from above). When you have made changes, commit, and make a Pull Request.
 ```shell
   mkdir SciSmalltalk
   cd SciSmalltalk
