@@ -1,0 +1,16 @@
+{
+	"category" : "Math-DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"unidimensionalFinder" ],
+	"name" : "DhbHillClimbingOptimizer",
+	"pools" : [
+		 ],
+	"super" : "DhbFunctionOptimizer",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
