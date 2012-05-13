@@ -35,7 +35,7 @@ Gofer new
 
 * A google group exists for this project at http://groups.google.com/group/scismalltalk
 
-* Alternately, fork this repository, then clone your copy. 
+* Alternately, fork this repository, then clone your copy. When you have made changes, commit, and make a Pull Request.
 ```shell
   mkdir SciSmalltalk
   cd SciSmalltalk
