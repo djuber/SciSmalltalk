@@ -6,3 +6,4 @@ SystemOrganization addCategory: #'Math-Quaternion'!
 SystemOrganization addCategory: #'Math-QuaternionTests'!
 SystemOrganization addCategory: #'Math-Random'!
 SystemOrganization addCategory: #'Math-Random-Tests'!
+SystemOrganization addCategory: #'Math-KDTree'!
