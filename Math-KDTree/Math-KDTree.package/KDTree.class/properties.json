@@ -1,0 +1,19 @@
+{
+	"category" : "Math-KDTree",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "WernerKassens 5/5/2011 15:45",
+	"instvars" : [
+		"left",
+		"right",
+		"dim",
+		"value" ],
+	"name" : "KDTree",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

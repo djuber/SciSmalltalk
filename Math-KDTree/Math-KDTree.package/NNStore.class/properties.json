@@ -1,0 +1,17 @@
+{
+	"category" : "Math-KDTree",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "WernerKassens 5/5/2011 14:40",
+	"instvars" : [
+		"freeIndex",
+		"maxDistance" ],
+	"name" : "NNStore",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"traitcomposition" : "{}",
+	"type" : "variable" }
