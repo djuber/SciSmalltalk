@@ -1,0 +1,20 @@
+{
+	"category" : "Math-Random",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"rng",
+		"mean",
+		"standardDeviation",
+		"hasNextGaussian",
+		"nextGaussian" ],
+	"name" : "GaussianGenerator",
+	"pools" : [
+		 ],
+	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

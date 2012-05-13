@@ -1,0 +1,18 @@
+{
+	"category" : "Math-Random",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"rate",
+		"rng",
+		"nextMethod" ],
+	"name" : "PoissonGenerator",
+	"pools" : [
+		 ],
+	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
