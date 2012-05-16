@@ -1,4 +1,4 @@
-*Math
+*Math-Extensions
 choose: anInteger
 "answer the binomial coefficient"
 
