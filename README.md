@@ -44,3 +44,6 @@ We welcome submissions!
   cd SciSmalltalk
   git clone https://github.com/YourUserName/SciSmalltalk.git
 ```
+
+* A Metacello package ConfigurationOfSciSmalltalk is in progress. It will load the latest packages from http://ss3.gemstone.com/ss/SciSmalltalk
+
