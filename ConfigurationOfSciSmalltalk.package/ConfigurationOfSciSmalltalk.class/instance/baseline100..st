@@ -6,9 +6,11 @@ baseline100: spec
                 spec blessing: #baseline.
                 spec repository: 'http://ss3.gemstone.com/ss/SciSmalltalk'.    
                 spec 
-                        package: 'Math-Complex';
+			package: 'Math-DHB-Numerical';
+			package: 'Math-DHB-Numerical-Tests' with: [spec requires: 'Math-DHB-Numerical'];
+                        package: 'Math-Complex' with: [spec requires: 'Math-DHB-Numerical'];
                         package: 'Math-ComplexTests' with: [ spec requires: 'Math-Complex' ].
                 spec
                         group: 'default' with: #('Core');
-                        group: 'Core' with: #('Math-Complex');
-                        group: 'Tests' with: #('Math-ComplexTests'). ].
+                        group: 'Core' with: #('Math-Complex' 'Math-DHB-Numerical');
+                        group: 'Tests' with: #('Math-ComplexTests' 'Math-DHB-Numerical-Tests'). ].

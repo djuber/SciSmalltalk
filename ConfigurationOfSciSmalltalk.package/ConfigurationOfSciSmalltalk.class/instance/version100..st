@@ -5,5 +5,7 @@ version100: spec
         spec for: #common do: [
                 spec blessing: #release.
                 spec 
-                        package: 'Math-Comples' with: 'Math-Complex-DanielUber.1';
+			package: 'Math-DHB-Numerical' with: 'Math-DHB-Numerical-DanielUber.2';
+			package: 'Math-DHB-Numerical-Tests' with: 'Math-DHB-Numerical-Tests-DanielUber.1';
+                        package: 'Math-Complex' with: 'Math-Complex-DanielUber.1';
                         package: 'Math-ComplexTests' with: 'Math-ComplexTests-DanielUber.3'].

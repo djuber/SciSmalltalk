@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "{}",
 	"classvars" : [
 		"LastVersionLoad" ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"project" ],
 	"name" : "ConfigurationOfSciSmalltalk",
