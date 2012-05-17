@@ -2,7 +2,6 @@
 	"category" : "Math-KDTree",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "WernerKassens 5/5/2011 14:40",
@@ -13,5 +12,4 @@
 	"pools" : [
 		 ],
 	"super" : "Array",
-	"traitcomposition" : "{}",
 	"type" : "variable" }

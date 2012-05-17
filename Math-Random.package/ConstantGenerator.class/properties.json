@@ -2,7 +2,6 @@
 	"category" : "Math-Random",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "SergeStinckwich 3/30/2010 15:31",
@@ -12,5 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "NumberGenerator",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

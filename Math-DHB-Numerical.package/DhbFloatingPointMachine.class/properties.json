@@ -2,7 +2,6 @@
 	"category" : "Math-DHB-Numerical",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		"UniqueInstance" ],
 	"commentStamp" : "<historical>",
@@ -19,5 +18,4 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

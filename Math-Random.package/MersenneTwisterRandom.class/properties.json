@@ -2,7 +2,6 @@
 	"category" : "Math-Random",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		"DefaultLengthVector",
 		"Mt19937LowerMask",
@@ -20,5 +19,4 @@
 	"pools" : [
 		 ],
 	"super" : "RandomGenerator",
-	"traitcomposition" : "{}",
 	"type" : "normal" }
