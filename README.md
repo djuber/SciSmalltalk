@@ -1,6 +1,20 @@
-## How to install SciSmalltalk
+##How to install SciSmalltalk in Pharo
 
-SciSmalltalk code is also available on this Monticello repository: http://ss3.gemstone.com/ss/SciSmalltalk.html
+The simplest way to install in Pharo is via Metacello and Gofer. 
+* Bootstrap SciSmalltalk
+
+```Smalltalk
+Gofer new
+    url: 'http://ss3.gemstone.com/ss/SciSmalltalk';
+    package: 'ConfigurationOfSciSmalltalk';
+    load.
+(Smalltalk at: #ConfigurationOfSciSmalltalk) loadBleedingEdge.
+```
+
+All packages load into the Math-* package names.
+
+
+##How to install SciSmalltalk for GitHub
 
 * Download the last dev Pharo 1.4: https://ci.lille.inria.fr/pharo/job/Pharo%201.4/lastSuccessfulBuild/artifact/Pharo-1.4.zip
 
@@ -11,7 +25,7 @@ SciSmalltalk code is also available on this Monticello repository: http://ss3.ge
     url: 'http://ss3.gemstone.com/ss/FileTree';
     package: 'ConfigurationOfFileTree';
     load.
- (Smalltalk at: #ConfigurationOfSciSmalltalk) loadBleedingEdge.
+ ((Smalltalk at: #ConfigurationOfFileTree) project version: '1.0') load.
 ```
 
 * Clone this repository:
@@ -44,6 +58,3 @@ We welcome submissions!
   cd SciSmalltalk
   git clone https://github.com/YourUserName/SciSmalltalk.git
 ```
-
-* A Metacello package ConfigurationOfSciSmalltalk is in progress. It will load the latest packages from http://ss3.gemstone.com/ss/SciSmalltalk
-
