@@ -1,1 +1,0 @@
-StupidNN is a naive nearest neighbour search. KDTree is faster though if you have to do several searches.

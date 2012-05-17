@@ -1,1 +1,0 @@
-IndexedKDTree returns the indices of the nearest neighbours instead of the nearest neighbours itself.
