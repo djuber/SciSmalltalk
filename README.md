@@ -11,7 +11,7 @@ SciSmalltalk code is also available on this Monticello repository: http://ss3.ge
     url: 'http://ss3.gemstone.com/ss/FileTree';
     package: 'ConfigurationOfFileTree';
     load.
-  ((Smalltalk at: #ConfigurationOfFileTree) project version: '1.0') load.
+ (Smalltalk at: #ConfigurationOfSciSmalltalk) loadBleedingEdge.
 ```
 
 * Clone this repository:
