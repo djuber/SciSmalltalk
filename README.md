@@ -8,7 +8,7 @@ Gofer new
     url: 'http://ss3.gemstone.com/ss/SciSmalltalk';
     package: 'ConfigurationOfSciSmalltalk';
     load.
-(Smalltalk at: #ConfigurationOfSciSmalltalk) loadBleedingEdge.
+((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '1.01') load.
 ```
 
 All packages load into the Math-* package names.
