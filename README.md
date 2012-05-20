@@ -46,6 +46,8 @@ Gofer new
     package: 'Math';
     load.
 ```
+The above instructions are incorrect. When loading from FileTree/GitHub clone, you must load each package. There are some cross-package dependencies that will trigger warnings (Complex and Quaternion depend on DhbPolynomial, DhbPolynomial may depend on Complex and Quaternion.) After loading all packages, please ensure that tests pass. If you think you have all the packages loaded and have failing tests, please contact me. In the meantime, though I am using github as a useful code store, I recommend installing from SS3 (see top item).
+
 ## How to contribute to SciSmalltalk
 
 We welcome submissions!
