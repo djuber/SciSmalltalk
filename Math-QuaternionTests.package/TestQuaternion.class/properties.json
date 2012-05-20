@@ -2,13 +2,18 @@
 	"category" : "Math-QuaternionTests",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"q1234" ],
+		"q1234",
+		"q1",
+		"q12",
+		"q123" ],
 	"name" : "TestQuaternion",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
+	"traitcomposition" : "{}",
 	"type" : "normal" }
