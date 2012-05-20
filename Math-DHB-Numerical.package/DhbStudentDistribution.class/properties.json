@@ -2,6 +2,7 @@
 	"category" : "Math-DHB-Numerical",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -14,4 +15,5 @@
 	"pools" : [
 		 ],
 	"super" : "DhbProbabilityDensity",
+	"traitcomposition" : "{}",
 	"type" : "normal" }
