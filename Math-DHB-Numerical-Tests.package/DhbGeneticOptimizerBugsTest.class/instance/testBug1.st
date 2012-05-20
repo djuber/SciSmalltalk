@@ -1,6 +1,6 @@
 tests
 testBug1
-|r|
+| r |
 optimizer addPointAt: #(2 3).
 optimizer addPointAt: #(2 3).
 self shouldnt: [r:=optimizer randomScale] raise: Error.
