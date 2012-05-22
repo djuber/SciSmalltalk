@@ -1,0 +1,15 @@
+solving
+solve: aSystem x0: initialState t0: initialTime t1: endTime
+	| state |
+	self system: aSystem.
+	self stepper: ((self stepperClass) onSystem: self system).
+	state := initialState.
+	(initialTime to: endTime by: self dt) do:
+		[:time | 
+			state := stepper 
+				doStep: state 
+				time:  time 
+				stepSize: self dt.
+			self fixMe: 'add a monitor method/announcement here'.
+		].
+	^ state
