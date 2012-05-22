@@ -1,0 +1,14 @@
+{
+	"category" : "Math-RandomTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LehmerRandomTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Math-DHB-NumericalTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"manager",
+		"function",
+		"optimizer" ],
+	"name" : "DhbGeneticOptimizerBugsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
