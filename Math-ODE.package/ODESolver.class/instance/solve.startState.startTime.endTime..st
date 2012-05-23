@@ -1,5 +1,5 @@
 solving
-solve: aSystem x0: initialState t0: initialTime t1: endTime
+solve: aSystem startState: initialState startTime: initialTime endTime: endTime
 	| state |
 	self system: aSystem.
 	self stepper: ((self stepperClass) onSystem: self system).

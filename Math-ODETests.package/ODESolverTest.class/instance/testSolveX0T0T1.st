@@ -9,7 +9,7 @@ testSolveX0T0T1
 				system: system; 
 				stepper: stepper;
 				dt: dt).
-	finalState := solver solve: solver system x0: 0 t0: 0  t1: 1. 
+	finalState := solver solve: solver system startState: 0 startTime: 0  endTime: 1. 
 	self should: [finalState isFloat].
 	
 	"Debgging information"

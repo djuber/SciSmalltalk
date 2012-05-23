@@ -1,5 +1,5 @@
 tests-solving
-testSolveX0T0T1StepSize
+testSolveStartStateStartTimeEndTimeStepSize
 	| solver stepper system dt finalState |
 	dt := 0.2.
 	system := ExplicitSystem block: [:x :t | (t * x ) exp].
@@ -8,7 +8,7 @@ testSolveX0T0T1StepSize
 	solver := (ODESolver new 
 				system: system; 
 				stepper: stepper).
-	finalState := solver solve: solver system x0: 0 t0: 0  t1: 1 stepSize: dt. 
+	finalState := solver solve: solver system startState: 0 startTime: 0  endTime: 1 stepSize: dt. 
 	self should: [finalState isFloat].
 	
 	"Debgging information"
