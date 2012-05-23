@@ -2,9 +2,10 @@
 	"category" : "Math-DHB-Numerical",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"functionBlock",
 		"relativePrecision" ],
@@ -12,4 +13,5 @@
 	"pools" : [
 		 ],
 	"super" : "DhbIterativeProcess",
+	"traitcomposition" : "{}",
 	"type" : "normal" }
