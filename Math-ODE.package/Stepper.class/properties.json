@@ -1,0 +1,16 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"order" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"system" ],
+	"name" : "Stepper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
