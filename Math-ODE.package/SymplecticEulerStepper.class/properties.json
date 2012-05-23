@@ -1,0 +1,16 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SymplecticEulerStepper",
+	"pools" : [
+		 ],
+	"super" : "SymplecticStepper",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

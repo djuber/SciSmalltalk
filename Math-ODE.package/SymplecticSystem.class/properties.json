@@ -1,0 +1,19 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dqdt",
+		"firstBlock",
+		"dpdt",
+		"secondBlock" ],
+	"name" : "SymplecticSystem",
+	"pools" : [
+		 ],
+	"super" : "ODESystem",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

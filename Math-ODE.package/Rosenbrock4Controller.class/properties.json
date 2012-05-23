@@ -1,0 +1,16 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Rosenbrock4Controller",
+	"pools" : [
+		 ],
+	"super" : "ControlledStepper",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

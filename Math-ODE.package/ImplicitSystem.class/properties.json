@@ -1,0 +1,17 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"jacobian",
+		"dxdt" ],
+	"name" : "ImplicitSystem",
+	"pools" : [
+		 ],
+	"super" : "ODESystem",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
