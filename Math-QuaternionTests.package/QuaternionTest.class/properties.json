@@ -2,6 +2,7 @@
 	"category" : "Math-QuaternionTests",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
@@ -10,8 +11,9 @@
 		"q1",
 		"q12",
 		"q123" ],
-	"name" : "TestQuaternion",
+	"name" : "QuaternionTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
+	"traitcomposition" : "{}",
 	"type" : "normal" }
