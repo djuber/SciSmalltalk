@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "{}",
 	"classvars" : [
 		"Digits" ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"mantissa",
 		"exponent" ],
