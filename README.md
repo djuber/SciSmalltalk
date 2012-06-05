@@ -12,7 +12,6 @@ Gofer new
 ```
 
 All packages load into the Math-* package names.
-Currently there is an issue in packaging where DHB-Numerical attempts to load its own extensions. This is in the proccess of being addressed. In the meantime, a warning will pop up when loading stating that you will need to load Quaternion and Complex before using some methods. This will be loaded by Metacello. 
 
 
 ##How to install SciSmalltalk for GitHub
