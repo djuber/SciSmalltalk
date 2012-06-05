@@ -2,6 +2,7 @@
 	"category" : "Math-DHB-Numerical",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
@@ -14,4 +15,5 @@
 	"pools" : [
 		 ],
 	"super" : "DhbFunctionalIterator",
+	"traitcomposition" : "{}",
 	"type" : "normal" }
