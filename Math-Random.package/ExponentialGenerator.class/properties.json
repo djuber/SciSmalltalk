@@ -2,14 +2,15 @@
 	"category" : "Math-Random",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"mean",
-		"rng" ],
+		"mean" ],
 	"name" : "ExponentialGenerator",
 	"pools" : [
 		 ],
 	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
 	"type" : "normal" }

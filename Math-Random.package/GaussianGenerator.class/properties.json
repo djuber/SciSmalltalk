@@ -2,11 +2,11 @@
 	"category" : "Math-Random",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"rng",
 		"mean",
 		"standardDeviation",
 		"hasNextGaussian",
@@ -15,4 +15,5 @@
 	"pools" : [
 		 ],
 	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
 	"type" : "normal" }

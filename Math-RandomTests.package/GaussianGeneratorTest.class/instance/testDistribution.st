@@ -3,7 +3,8 @@ testDistribution
 	| mean standardDeviation g |
 	mean := 147.
 	standardDeviation := 17.
-	g := (GaussianGenerator new)
+	g := (GaussianGenerator new).
+	g
 		mean: mean;
 		standardDeviation: standardDeviation.
 	g generator: LCRandom new.

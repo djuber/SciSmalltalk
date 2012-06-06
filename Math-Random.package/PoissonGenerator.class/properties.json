@@ -2,14 +2,15 @@
 	"category" : "Math-Random",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"lambda",
-		"rng" ],
+		"lambda" ],
 	"name" : "PoissonGenerator",
 	"pools" : [
 		 ],
 	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
 	"type" : "normal" }

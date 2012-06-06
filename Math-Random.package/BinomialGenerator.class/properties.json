@@ -2,15 +2,16 @@
 	"category" : "Math-Random",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"n",
-		"p",
-		"rng" ],
+		"p" ],
 	"name" : "BinomialGenerator",
 	"pools" : [
 		 ],
 	"super" : "NumberGenerator",
+	"traitcomposition" : "{}",
 	"type" : "normal" }
