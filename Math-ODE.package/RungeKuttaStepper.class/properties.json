@@ -2,6 +2,7 @@
 	"category" : "Math-ODE",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
@@ -11,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "ExplicitStepper",
+	"traitcomposition" : "{}",
 	"type" : "normal" }

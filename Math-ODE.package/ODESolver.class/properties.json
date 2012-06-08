@@ -2,15 +2,18 @@
 	"category" : "Math-ODE",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"stepper",
 		"system",
-		"dt" ],
+		"dt",
+		"announcer" ],
 	"name" : "ODESolver",
 	"pools" : [
 		 ],
 	"super" : "Object",
+	"traitcomposition" : "{}",
 	"type" : "normal" }

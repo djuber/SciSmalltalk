@@ -1,0 +1,16 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"states" ],
+	"name" : "StateRecorder",
+	"pools" : [
+		 ],
+	"super" : "ExplicitSolverSubscriber",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

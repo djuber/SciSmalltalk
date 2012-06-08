@@ -1,0 +1,17 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcers",
+		"block" ],
+	"name" : "ExplicitSolverSubscriber",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
