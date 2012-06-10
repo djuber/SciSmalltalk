@@ -7,9 +7,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"announcers",
-		"block" ],
-	"name" : "ExplicitSolverSubscriber",
+		"state",
+		"time" ],
+	"name" : "StateTime",
 	"pools" : [
 		 ],
 	"super" : "Object",

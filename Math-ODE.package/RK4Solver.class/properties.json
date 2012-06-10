@@ -7,11 +7,10 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"announcers",
-		"block" ],
-	"name" : "ExplicitSolverSubscriber",
+		 ],
+	"name" : "RK4Solver",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ODESolver",
 	"traitcomposition" : "{}",
 	"type" : "normal" }
