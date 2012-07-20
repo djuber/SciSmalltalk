@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"stepperClass" : "DanielUber 5/22/2012 11:49" },
+	"instance" : {
+		"announceState:time:" : "DanielUber 6/10/2012 09:36",
+		"announcer" : "DanielUber 6/7/2012 18:52",
+		"announcer:" : "DanielUber 6/8/2012 08:10",
+		"dt" : "DanielUber 5/22/2012 11:54",
+		"dt:" : "DanielUber 5/22/2012 11:54",
+		"initialize" : "DanielUber 6/8/2012 09:29",
+		"lastStepState:endTime:" : "DanielUber 6/10/2012 10:45",
+		"mainStepsState:startTime:endTime:" : "DanielUber 6/10/2012 10:45",
+		"solve:startState:startTime:endTime:" : "DanielUber 6/10/2012 10:45",
+		"solve:startState:startTime:endTime:stepSize:" : "DanielUber 5/23/2012 09:15",
+		"stepper:" : "DanielUber 7/18/2012 09:14",
+		"stepperClass" : "DanielUber 5/22/2012 11:53",
+		"system" : "DanielUber 5/22/2012 11:48",
+		"system:" : "DanielUber 7/18/2012 09:15" } }
