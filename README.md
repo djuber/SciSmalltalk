@@ -8,7 +8,7 @@ Gofer new
 	url: 'http://ss3.gemstone.com/ss/SciSmalltalk';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
-(Smalltalk at: #ConfigurationOfSciSmalltalk)  loadDevelopment .
+(Smalltalk at: #ConfigurationOfSciSmalltalk) loadDevelopment.
 ```
 
 All packages load into the Math-* package names.
