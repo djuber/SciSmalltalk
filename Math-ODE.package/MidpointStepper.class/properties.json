@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		"t",
-		"state" ],
-	"name" : "ExplicitSolverAnnouncement",
+		 ],
+	"name" : "MidpointStepper",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "ExplicitStepper",
 	"type" : "normal" }
