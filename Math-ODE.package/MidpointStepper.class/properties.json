@@ -1,0 +1,14 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MidpointStepper",
+	"pools" : [
+		 ],
+	"super" : "ExplicitStepper",
+	"type" : "normal" }
