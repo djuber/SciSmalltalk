@@ -1,3 +1,5 @@
+This is old - please see https://github.com/PolyMathOrg/PolyMath instead.
+
 ##How to install SciSmalltalk in Pharo
 
 The simplest way to install in Pharo is via Metacello and Gofer. 
