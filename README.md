@@ -1,6 +1,6 @@
 This is old - please see https://github.com/PolyMathOrg/PolyMath instead.
 
-##How to install SciSmalltalk in Pharo
+## How to install SciSmalltalk in Pharo
 
 The simplest way to install in Pharo is via Metacello and Gofer. 
 * Bootstrap SciSmalltalk
@@ -16,7 +16,7 @@ Gofer new
 All packages load into the Math-* package names.
 
 
-##How to install SciSmalltalk for GitHub
+## How to install SciSmalltalk for GitHub
 
 * Download the last dev Pharo 1.4: https://ci.lille.inria.fr/pharo/job/Pharo%201.4/lastSuccessfulBuild/artifact/Pharo-1.4.zip
 
